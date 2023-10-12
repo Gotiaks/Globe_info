@@ -26,17 +26,16 @@ body{
     border-radius: 30px;
     margin-top: 20px;
     height: 320px;
-    width: 260px;s
+    width: 260px;
 }
 
 .body2{
-    object-fit:cover;
     border-radius: 30px;
     margin-top: 50px;
     margin-left: 30px;
     margin-right: 30px;
     padding: 20px;
-    justify-content: center;
+    justify-content:center;
 }
 
     .item{
